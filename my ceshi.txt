@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <div> my textgit</div>
+   <div> my text git</div>
+<<<<<<< HEAD
+   12313131
+=======
+   <div> my text git</div>
+>>>>>>> new1
+  </body>
+</html>
